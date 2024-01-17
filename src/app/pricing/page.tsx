@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import MaxWidthWrapper from '../../components/MaxWidthWrapper'
-import myGif from '../../public/e9eacada077b5325276ed09d6434922a.gif'
+import MaxWidthWrapper from '../../../components/MaxWidthWrapper'
+import myGif from '../../../public/e9eacada077b5325276ed09d6434922a.gif'
 
 export default function Home() {
     return (

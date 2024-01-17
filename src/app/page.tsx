@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import MaxWidthWrapper from '../components/MaxWidthWrapper'
+import MaxWidthWrapper from '../../components/MaxWidthWrapper'
 import { ArrowRight } from 'lucide-react'
 import { buttonVariants } from '@/components/ui/button'
 
